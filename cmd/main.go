@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/klx1899/KiMovieBot/internal/bot"
-	"github.com/klx1899/KiMovieBot/internal/config"
+	"github.com/KLX1899/KiMovieBot/internal/bot"
+	"github.com/KLX1899/KiMovieBot/internal/config"
 )
 
 func main() {
