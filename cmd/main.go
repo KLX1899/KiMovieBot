@@ -1,4 +1,4 @@
-package cmd
+package main
 
 import (
 	"github.com/KLX1899/KiMovieBot/internal/bot"
